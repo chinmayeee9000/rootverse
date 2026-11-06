@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # 🌱 Agriverse360
 
 A comprehensive agricultural monitoring and management system with AI-powered plant identification and disease detection.
@@ -243,3 +244,6 @@ See individual README files in each directory for detailed development instructi
 =======
 # ROOTVERSE
 >>>>>>> 4d7900a07a619db6e0bbd67a2c46de21f8eb001c
+=======
+# rootverse
+>>>>>>> friend/main
